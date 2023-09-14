@@ -25,7 +25,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api', userRouter);
 
 app.get("/", (req, res) => {
-    res.send("Main page Go!");
+    res.send("CodeScale Weather App");
   });
 
 
