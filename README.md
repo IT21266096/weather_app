@@ -14,8 +14,8 @@ Follow these steps to set up and run the project:
 3. Install the necessary dependencies using npm:</br>
    **npm install**
 
-4. Set Enviroment Variables:
-   **MONGODB_URI=mongodb+srv://lakshand969:12345@basecluster.sbo4fqp.mongodb.net/weather-app?retryWrites=true&w=majority
+4. Set Enviroment Variables:</br>
+   **MONGODB_URI=mongodb+srv://lakshand969:12345@basecluster.sbo4fqp.mongodb.net/weather-app?retryWrites=true&w=majority</br>
    PORT=8000**</br>
 
 6. Start the Application</br>
