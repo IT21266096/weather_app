@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // generate Rest API
-app.use('./api', userRouter);
+app.use('/api', userRouter);
 
 app.get("/", (req, res) => {
     res.send("Main page Go!");
