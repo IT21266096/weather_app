@@ -14,7 +14,11 @@ Follow these steps to set up and run the project:
 3. Install the necessary dependencies using npm:</br>
    **npm install**
 
-4. Start the Application</br>
+4. Set Enviroment Variables:
+   **MONGODB_URI=mongodb+srv://lakshand969:12345@basecluster.sbo4fqp.mongodb.net/weather-app?retryWrites=true&w=majority
+   PORT=8000**</br>
+
+6. Start the Application</br>
    **npm start** or **node index.js**
 
 5.Access the API Routes<br>
@@ -22,7 +26,7 @@ Follow these steps to set up and run the project:
   ### Add New User</br>
   ![Screenshot_1](https://github.com/IT21266096/weather_app/assets/99247843/0b6adb9d-0d32-49c4-9ddb-11b930f285a4)</br>
 
-  ###Update Location</br>
+  ### Update Location</br>
   ![Screenshot_2](https://github.com/IT21266096/weather_app/assets/99247843/430c6bcb-1964-4dbd-8e36-a0b7f9c441fe)</br>
   
   </br></br></br>
