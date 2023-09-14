@@ -20,6 +20,4 @@ Follow these steps to set up and run the project:
 5.Access the API Routes<br>
   Access the API routes using Postman for testing. Import the provided Postman API collection to get started with testing the routes</br>
   ## Add New User</br>
-  <pictute>
-    <img alt="Add New User." src="https://drive.google.com/file/d/1WsghOTo12kr0Lri4W945DJbFgaMv2u4F/view?usp=sharing">
-  </pictute>
+  ![Screenshot.](https://drive.google.com/file/d/1WsghOTo12kr0Lri4W945DJbFgaMv2u4F/view?usp=sharing)
