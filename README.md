@@ -31,3 +31,9 @@ Follow these steps to set up and run the project:
   
   </br></br></br>
 
+  ## Screenshots</br>
+  ### Weather Report</br>
+  ![Screenshot_1](https://github.com/IT21266096/weather_app/assets/99247843/f83d1ffb-3bb5-4140-9367-00a4e8f91d29)</br>
+
+  ### Deploy System on vercel</br>
+  ![Screenshot_2](https://github.com/IT21266096/weather_app/assets/99247843/adb002a8-9906-4a8d-8f3e-f4ef8c01532c)</br>
