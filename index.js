@@ -28,10 +28,6 @@ app.get("/", (req, res) => {
     res.send("Main page Go!");
   });
 
-// app.use((err, req, res, next) => {
-//     res.status(500).send({message:err.message});
-// })
-
 
 const port = process.env.PORT || 8000;
 app.listen(port, () => {
