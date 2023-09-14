@@ -6,9 +6,10 @@ This Node.js backend application is designed to store users' email and location 
 Follow these steps to set up and run the project:
 
 1. Clone this repository to your local machine.
-   ==git clone https://github.com/IT21266096/weather_app.git==
+   **git clone https://github.com/IT21266096/weather_app.git**
    
 2. Navigate to the project directory.
-   ==cd weather_app==
-4. Install the necessary dependencies using npm:
-   ==npm install==
+   **cd weather_app**
+   
+3. Install the necessary dependencies using npm:
+   **npm install**
