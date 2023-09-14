@@ -20,4 +20,4 @@ Follow these steps to set up and run the project:
 5.Access the API Routes<br>
   Access the API routes using Postman for testing. Import the provided Postman API collection to get started with testing the routes</br>
   ## Add New User</br>
-<img alt="Add New User." src="<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">">
+<img alt="Add New User." src="https://drive.google.com/file/d/1WsghOTo12kr0Lri4W945DJbFgaMv2u4F/view?usp=sharing">
