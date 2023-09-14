@@ -1,5 +1,5 @@
 # NodeJs Backend Application
-This Node.js backend application is designed to store users' email and location data while also providing hourly weather reports every 3 hours. Users can store their details, update their locations, and retrieve weather data for a specific day. The application uses MongoDB to store user data and fetches weather information from the OpenWeatherMap API. Hourly weather reports are sent to users' emails using Nodemailer and Gmail. The application is deployed on Vercel.
+This Node.js backend application is designed to store users' email and location data while also providing hourly weather reports every 3 hours. Users can store their details, update their locations, and retrieve weather data for a specific day. The application uses MongoDB to store user data and fetches weather information from the OpenWeatherMap API. Hourly weather reports are sent to users' emails using Nodemailer and Gmail. The application is deployed on Vercel **https://weather-app-282a.vercel.app/**.
 
 ## Instructions
 
