@@ -18,10 +18,10 @@ Follow these steps to set up and run the project:
    **MONGODB_URI=mongodb+srv://lakshand969:12345@basecluster.sbo4fqp.mongodb.net/weather-app?retryWrites=true&w=majority</br>
    PORT=8000**</br>
 
-6. Start the Application</br>
-   **npm start** or **node index.js**
+5. Start the Application</br>
+   **npm start** or **node index.js**</br>
 
-5.Access the API Routes<br>
+6.Access the API Routes<br>
   Access the API routes using Postman for testing. Import the provided Postman API collection to get started with testing the routes</br>
   ### Add New User</br>
   ![Screenshot_1](https://github.com/IT21266096/weather_app/assets/99247843/0b6adb9d-0d32-49c4-9ddb-11b930f285a4)</br>
