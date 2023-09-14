@@ -29,7 +29,7 @@ Follow these steps to set up and run the project:
   ### Update Location</br>
   ![Screenshot_2](https://github.com/IT21266096/weather_app/assets/99247843/430c6bcb-1964-4dbd-8e36-a0b7f9c441fe)</br>
   
-  </br></br></br>
+  </br>
 
   ## Screenshots</br>
   ### Weather Report</br>
