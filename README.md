@@ -20,10 +20,10 @@ Follow these steps to set up and run the project:
 5.Access the API Routes<br>
   Access the API routes using Postman for testing. Import the provided Postman API collection to get started with testing the routes</br>
   ### Add New User</br>
-  ![Screenshot_1](https://github.com/IT21266096/weather_app/assets/99247843/0b6adb9d-0d32-49c4-9ddb-11b930f285a4)
+  ![Screenshot_1](https://github.com/IT21266096/weather_app/assets/99247843/0b6adb9d-0d32-49c4-9ddb-11b930f285a4)</br>
 
   ###Update Location</br>
-  ![Screenshot_2](https://github.com/IT21266096/weather_app/assets/99247843/430c6bcb-1964-4dbd-8e36-a0b7f9c441fe)
+  ![Screenshot_2](https://github.com/IT21266096/weather_app/assets/99247843/430c6bcb-1964-4dbd-8e36-a0b7f9c441fe)</br>
   
   </br></br></br>
 
